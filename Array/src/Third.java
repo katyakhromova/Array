@@ -3,7 +3,6 @@ import static src.Lesson.thirdMethod;
 public class Third {
 
     public static void main(String[] args) {
-        thirdMethod();
 
         //#3
         //Найти самое маленькое и самое большое значение в array и вывести их на экран. Возьмите размер array = 8.

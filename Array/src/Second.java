@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Second {
     public static void main(String[] args) {
-        secondMethod();
 
         //#2
         /*Для выполнения задания понадобиться Scanner s = new Scanner(System.in);

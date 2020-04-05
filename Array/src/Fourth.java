@@ -2,7 +2,6 @@ import static src.Lesson.fourthMethod;
 
 public class Fourth {
     public static void main(String[] args) {
-        fourthMethod();
 
         //#4
         /*Создайте массив размер которого = 10. Заполните его любимы числами.
